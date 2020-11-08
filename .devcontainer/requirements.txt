@@ -1,0 +1,7 @@
+Django
+psycopg2
+djangorestframework
+django-filter
+gunicorn
+pyyaml
+django-debug-toolbar
